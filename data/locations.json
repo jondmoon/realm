@@ -1,0 +1,91 @@
+[
+  {
+    "_id": "1",
+    "building": "Mills Hall",
+    "room": "MH130",
+    "eventTypes": ["3", "4", "5"]
+  },
+  {
+    "_id": "2",
+    "building": "Mills Hall",
+    "room": "MH150",
+    "eventTypes": ["3"]
+  },
+  {
+    "_id": "3",
+    "building": "Mills Hall",
+    "room": "MH160",
+    "eventTypes": ["1", "3", "4", "5"]
+  },
+  {
+    "_id": "4",
+    "building": "Mills Hall",
+    "room": "MH180",
+    "eventTypes": ["3"]
+  },
+  {
+    "_id": "5",
+    "building": "Mills Hall",
+    "room": "MH270",
+    "roomLink": ["MH280"],
+    "eventTypes": ["1", "2", "3", "4", "5"]
+  },
+  {
+    "_id": "6",
+    "building": "Mills Hall",
+    "room": "MH280",
+    "roomLink": ["MH270"],
+    "eventTypes": ["1", "2", "3", "4", "5"]
+  },
+  {
+    "_id": "7",
+    "building": "Mills Hall",
+    "room": "MH381",
+    "eventTypes": ["3", "4", "5"]
+  },
+  {
+    "_id": "8",
+    "building": "Brock Hall",
+    "room": "BH114",
+    "eventTypes": ["1", "3", "4", "5"]
+  },
+  {
+    "_id": "9",
+    "building": "Brock Hall",
+    "room": "BH118",
+    "roomLink": ["BH120"],
+    "eventTypes": ["1", "2", "3", "4", "5"]
+  },
+  {
+    "_id": "10",
+    "building": "Brock Hall",
+    "room": "BH120",
+    "roomLink": ["BH118", "BH122"],
+    "eventTypes": ["1", "2", "3", "4", "5"]
+  },
+  {
+    "_id": "11",
+    "building": "Brock Hall",
+    "room": "BH122",
+    "roomLink": ["BH120"],
+    "eventTypes": ["1", "2", "3", "4", "5"]
+  },
+  {
+    "_id": "12",
+    "building": "Brock Hall",
+    "room": "BH212",
+    "eventTypes": ["3", "4", "5"]
+  },
+  {
+    "_id": "13",
+    "building": "Brock Hall",
+    "room": "BH214",
+    "eventTypes": ["3", "4", "5"]
+  },
+  {
+    "_id": "14",
+    "building": "Brock Hall",
+    "room": "Brock Breezeway",
+    "eventTypes": ["1", "2", "3", "5"]
+  }
+]

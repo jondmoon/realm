@@ -1,0 +1,48 @@
+[
+  {
+    "_id": "1",
+    "name": "Audio/Video Services",
+    "code": "av",
+    "users": [
+      {
+        "name": "Jon Moon",
+        "login": "jon.moon@covenant.edu",
+        "role": "admin"
+      },
+      {
+        "name": "Matt Wright",
+        "login": "matt.wright@covenant.edu",
+        "role": "admin"
+      },
+      {
+        "name": "Ben Ray",
+        "login": "ben.ray@covenant.edu",
+        "role": "admin"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "name": "Catering Services",
+    "code": "catering",
+    "users": [
+      {
+        "name": "Nicholas Lawrence",
+        "login": "catering@covenant.edu",
+        "role": "admin"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "name": "Facilities Services",
+    "code": "facilities",
+    "users": [
+      {
+        "name": "Amy Buck",
+        "login": "amy.buck@covenant.edu",
+        "role": "admin"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "1",
+    "name": "Banquet",
+    "layouts": ["4", "5"]
+  },
+  {
+    "_id": "2",
+    "name": "Concert",
+    "layouts": ["1", "6"]
+  },
+  {
+    "_id": "3",
+    "name": "Lecture",
+    "layouts": ["1", "2", "3"]
+  },
+  {
+    "_id": "4",
+    "name": "Meeting",
+    "layouts": ["1", "2", "3"]
+  },
+  {
+    "_id": "5",
+    "name": "Social Gathering",
+    "layouts": ["1", "2", "3", "4", "6"]
+  }
+]

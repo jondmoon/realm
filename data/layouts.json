@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "1",
+    "name": "Chairs"
+  },
+  {
+    "_id": "2",
+    "name": "Desks"
+  },
+  {
+    "_id": "3",
+    "name": "Tables and Chairs"
+  },
+  {
+    "_id": "4",
+    "name": "Banquet - Rectangular Tables"
+  },
+  {
+    "_id": "5",
+    "name": "Banquet - Round Tables"
+  },
+  {
+    "_id": "6",
+    "name": "Empty Room"
+  }
+]
